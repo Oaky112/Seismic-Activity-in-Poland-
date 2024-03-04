@@ -21,7 +21,7 @@ Data Pre-processing: Pre-processing steps include normalization and feature sele
 
 Model Evaluation: Model performance is assessed using metrics like accuracy, precision, recall, and F1-score, along with confusion matrices. The logistic regression model provided insights into correct and incorrect predictions.
 
-![image](https://github.com/Oaky112/Seismic-Activity-in-Poland-/assets/88333204/1def97aa-6f7b-4e1a-9779-0d5ccfc5a7c1)
+<img src="https://github.com/Oaky112/Seismic-Activity-in-Poland-/assets/88333204/1def97aa-6f7b-4e1a-9779-0d5ccfc5a7c1" width="500" height="400">
 
 
 Conclusion:
